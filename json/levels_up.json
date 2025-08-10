@@ -1,0 +1,13 @@
+{
+    "levels": {
+      "2": {"required_xp": 100, "strength_gain": 2, "endurance_gain": 1},
+      "3": {"required_xp": 500, "strength_gain": 2, "endurance_gain": 1},
+      "4": {"required_xp": 1250, "strength_gain": 2, "endurance_gain": 1},
+      "5": {"required_xp": 2250, "strength_gain": 2, "endurance_gain": 1},
+      "6": {"required_xp": 3750, "strength_gain": 2, "endurance_gain": 1},
+      "7": {"required_xp": 5750, "strength_gain": 2, "endurance_gain": 1},
+      "8": {"required_xp": 8250, "strength_gain": 2, "endurance_gain": 1},
+      "9": {"required_xp": 11350, "strength_gain": 2, "endurance_gain": 1},
+      "10": {"required_xp": 15000, "strength_gain": 2, "endurance_gain": 1}
+    }
+  }

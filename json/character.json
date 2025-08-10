@@ -1,0 +1,26 @@
+{
+    "name": "Platon",
+    "strength": 2,
+    "endurance": 1,
+    "level": 1,
+    "experience": 24,
+    "money": 0,
+    "items": [
+        61,
+        21
+    ],
+    "equipped": {
+        "armor": "",
+        "helmet": "Шлем ученика воина",
+        "gloves": "",
+        "boots": "",
+        "pants": "",
+        "weapon": "Меч ученика воина",
+        "shield": "",
+        "axe": ""
+    },
+    "win": 3,
+    "loss": 0,
+    "schutz": 2,
+    "image": "ava_lvl_"
+}

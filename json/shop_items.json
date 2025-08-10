@@ -1,0 +1,185 @@
+{
+    "Броня": [
+        {
+            "code": 11,
+            "name": "Броня ученика воина",
+            "defense": 3,
+            "price": 8,
+            "image": "images/erste_armor.png"
+        },
+        {
+            "code": 12,
+            "name": "Броня грозы лесов",
+            "defense": 4,
+            "price": 15,
+            "image": "images/armor_der_wälder.png"
+        },
+        {
+            "code": 13,
+            "name": "Броня убийцы монстров",
+            "defense": 5,
+            "price": 24,
+            "image": "images/armor_des_killers.png"
+        }
+    ],
+    "Шлемы": [ 
+        {
+            "code": 21,
+            "name": "Шлем ученика воина",
+            "defense": 2,
+            "price": 6,
+            "image": "images/erste_helm.png"
+        },
+        {
+            "code": 22,
+            "name": "Шлем грозы лесов",
+            "defense": 3,
+            "price": 11,
+            "image": "images/helmet_der_wälder.png"
+        },
+        {
+            "code": 23,
+            "name": "Шлем убийцы монстров",
+            "defense": 4,
+            "price": 19,
+            "image": "images/helmet_des_killers.png"
+        }
+
+    ],
+    "Наручи": [
+        {
+            "code": 31,
+            "name": "Наручи ученика воина",
+            "defense": 1,
+            "price": 3,
+            "image": "images/erste_gloves.png"
+        },
+        {
+            "code": 32,
+            "name": "Наручи грозы лесов",
+            "defense": 2,
+            "price": 8,
+            "image": "images/handschue_der_wälder.png"
+        },
+        {
+            "code": 33,
+            "name": "Наручи убийцы монстров",
+            "defense": 3,
+            "price": 14,
+            "image": "images/handschuhe_des_killers.png"
+        }
+    ],
+    "Сапоги": [
+        {
+            "code": 41,
+            "name": "Ботинки ученика воина",
+            "defense": 1,
+            "price": 4,
+            "image": "images/erste_boots.png"
+        },
+        {
+            "code": 42,
+            "name": "Ботинки грозы лесов",
+            "defense": 2,
+            "price": 8,
+            "image": "images/schuhe_der_wälder.png"
+        },
+        {
+            "code": 43,
+            "name": "Ботинки убийцы монстров",
+            "defense": 4,
+            "price": 19,
+            "image": "images/schuhe_des_killers.png"
+        }
+        
+    ],
+    "Штаны": [
+        {
+            "code": 51,
+            "name": "Штаны ученика воина",
+            "defense": 2,
+            "price": 7,
+            "image": "images/erste_hose.png"
+        },
+        {
+            "code": 52,
+            "name": "Штаны грозы лесов",
+            "defense": 3,
+            "price": 11,
+            "image": "images/hose_der_wälder.png"
+        },
+        {
+            "code": 53,
+            "name": "Штаны убийцы монстров",
+            "defense": 4,
+            "price": 19,
+            "image": "images/hose_des_killers.png"
+        }
+    ],
+    "Мечи": [
+        {
+            "code": 61,
+            "name": "Меч ученика воина",
+            "damage": 1,
+            "price": 6,
+            "image": "images/schwert_des_krigerschülers.png"
+        },
+        {
+            "code": 62,
+            "name": "Боевой топор грозы лесов",
+            "damage": 2,
+            "price": 13,
+            "image": "images/axt_der_wälder.png"
+        },
+        {
+            "code": 63,
+            "name": "Молот убийцы монстров",
+            "damage": 3,
+            "price": 26,
+            "image": "images/hummer_der_killers.png"
+        }
+    ],
+    "Щиты": [
+        {
+            "code": 71,
+            "name": "Щит ученика воина",
+            "defense": 2,
+            "price": 6,
+            "image": "images/erste_shield.png"
+        },
+        {
+            "code": 72,
+            "name": "Щит грозы лесов",
+            "defense": 3,
+            "price": 12,
+            "image": "images/shield_der_wälder.png"
+        },
+        {
+            "code": 73,
+            "name": "Щит убийцы монстров ",
+            "defense": 4,
+            "price": 20,
+            "image": "images/shield_des_killers.png"
+        }
+    ],
+    "Аватарки": [
+        {
+            "code": 91,
+            "name": "Войн",
+            "price": 1000,
+            "image": "images/ring_leer.png"
+        },
+        {
+            "code": 92,
+            "name": "Маг",
+            "price": 1200,
+            "image": "images/ring_leer.png"
+        },
+        {
+            "code": 93,
+            "name": "Разведчик",
+            "price": 900,
+            "image": "images/ring_leer.png"
+        }
+    ]
+}
