@@ -1,4 +1,4 @@
-# CombatSkinter
+# combats_tkinter
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -19,9 +19,9 @@ Nach dem Sieg erhält der Spieler Erfahrungspunkte (XP) und Gold, um Ausrüstung
 ---
 
 ## Screenshots
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
-![Screenshot 3](assets/screenshot3.png)
+![Screenshot 1](assets/Screenshot_1.png)
+![Screenshot 2](assets/Screenshot_2.png)
+![Screenshot 3](assets/Screenshot_3.png)
 
 ---
 
